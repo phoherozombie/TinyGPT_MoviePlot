@@ -29,3 +29,6 @@ After activating the virtual environment, run the Streamlit app with:
 ```
 streamlit run app.py
 ```
+## Data from: 
+https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download
+
