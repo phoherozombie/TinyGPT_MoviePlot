@@ -2,7 +2,8 @@
 
 ## Introduction
 This project is a simple Streamlit application that uses Transformers, PyTorch, and a fine-tuned language model to generate text. The model is loaded from the `./output/model/checkpoint-*` directory. Users can enter a prompt in the interface, and the system will generate output text in real time.
-
+## Model Checkpoint that is needed for this project: 
+https://drive.google.com/drive/u/3/folders/1QYLCb5Ur5Z5ub57i48FsAfxtDMGMKPbt
 ## Installation
 Install all required libraries using the following command:
 
@@ -31,4 +32,5 @@ streamlit run app.py
 ```
 ## Data from: 
 https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download
+
 
